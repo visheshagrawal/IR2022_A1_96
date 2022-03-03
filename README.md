@@ -1,5 +1,7 @@
 # IR2022_A1_96
 
+### Team: [Aditi](https://github.com/Soni-Aditi/), [Vishesh](https://github.com/visheshagrawal/)
+
 Information Retrieval Assignment 1 Question 2
 
 ## Preprocessing Steps
