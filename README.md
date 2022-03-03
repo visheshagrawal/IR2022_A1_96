@@ -4,7 +4,7 @@
 
 Information Retrieval Assignment 1 
 
-Question 1
+# Question 1
 ## Preprocessing Steps
 - Text conversion to lowercase.
 - Tokenization using nltk.
@@ -26,7 +26,7 @@ Question 1
 - We have used OR, AND, NOT operands and number of comparisons have been computed using the merge algorithm for 2 key words' posting list
 - Finally we report the number of docs matched as well as number of comparisons.
 
-Question 2
+# Question 2
 
 ## Preprocessing Steps
 - Text conversion to lowercase.
