@@ -22,7 +22,7 @@ Information Retrieval Assignment 1
 - First of all from all the docs present in the dataset we walked through it, and make a mapping.json file where we have a list of paths to all documents in a dataset.
 - Then we iterate over all the file paths and read the file.
 - Then we use our preprocessing function (all preprocessing steps are mentioned above), and tokenize the text.
-- Now we store these values in a dictionary where each word is stored as a key, and a count is maintained for the doc as well as the number of occurences in it for that word.
+- Now we store these values in a dictionary where we make an inverted index json file.
 - We have used OR, AND, NOT operands and number of comparisons have been computed using the merge algorithm for 2 key words' posting list
 - Finally we report the number of docs matched as well as number of comparisons.
 
@@ -43,7 +43,7 @@ Information Retrieval Assignment 1
 - First of all from all the docs present in the dataset we walked through it, and make a mapping.json file where we have a list of paths to all documents in a dataset.
 - Then we iterate over all the file paths and read the file.
 - Then we use our preprocessing function (all preprocessing steps are mentioned above), and tokenize the text.
-- Now we store these values in a dictionary where each word is stored as a key, and a count is maintained for the doc as well as the number of occurences in it for that word.
+- Now we store these values in a dictionary where we make an positional index json file.
 - This positional encoding is then saved.
 - Now for the query, we first take the input. Then we preprocess it using the same method.
 - From the query we get the postings and the docs related to it.
