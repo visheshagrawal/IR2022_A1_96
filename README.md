@@ -25,4 +25,3 @@ Information Retrieval Assignment 1 Question 2
 - From the query we get the postings and the docs related to it.
 - Then we find the intersection between lists and find docs which have all the words in the query.
 - Finally we report the number of docs as well as which all docs.
--  
